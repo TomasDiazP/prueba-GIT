@@ -1,0 +1,44 @@
+
+#navegacion{
+    background-color: beige;
+    border: 3px solid brown;
+    text-decoration: none;
+}
+.imagen{
+    width: 415px;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;;
+    color: brown;
+}
+.nav-brand{
+    background-color: beige;
+    border: 3px solid brown;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 5px;
+}
+.nav-link{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+.galeria-cards{
+    display: flex;
+    gap: 15px
+}
+.card{
+    border: 1px solid brown;
+    padding: 10px;
+    text-align: center;
+}
+.navBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
